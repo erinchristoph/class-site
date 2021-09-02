@@ -1,0 +1,29 @@
+p{
+  color: indianred;
+  font-size: 50px;
+  font-family: "Courier New", Verdana, sans-serif;
+  background: cornsilk;
+}
+body{
+  background-color: slateblue;
+  background-image: url("img/Toribig.png");
+}
+h1, h2, h3, h4{
+  color: plum;
+  font-family: Copperplate, Papyrus, fantasy;
+  text-shadow: 3px 3px 3px #000000;
+  text-align: center;
+}
+.common {
+  color: papayawhip;
+  background: palevioletred;
+  text-shadow: 3px 3px 3px #000000;
+  border: 5px dotted slateblue;
+  border-radius: 20px;
+  padding: 48px;
+  margin: 60px;
+  width: 200px
+}
+img{
+  max-width: 100%
+}
