@@ -1,0 +1,29 @@
+img {
+  max-width: 100%;
+}
+
+body{
+  background-color: black
+}
+
+p {
+  font-size: 36px;
+  color: slateblue;
+  font-weight: 400;
+  text-decoration: ;
+  font-style: italic;
+  text-align: justify;
+  font-family: 'Advent Pro', sans-serif;
+  background: pink;
+  box-shadow: 10px 10px white;
+  text-shadow: 6px 6px 6px brown;
+  padding: 25px 50px 75px 100px;
+  margin: 50px 50px 50px 50px;
+  transform: rotate();
+}
+
+.rotate {
+  transform: translateX(50px);
+  color: white;
+  display: inline-block;
+}
